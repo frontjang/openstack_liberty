@@ -5,9 +5,9 @@
 # controller
 10.0.0.11       controller
 
-# compute1
-10.0.0.31       compute1(OVS)
-10.0.0.32       compute2(LinuxBridge)
+# compute1(OVS), compute2(LinuxBridge)
+10.0.0.31       compute1
+10.0.0.32       compute2
 
 # The following lines are desirable for IPv6 capable hosts
 ::1     ip6-localhost ip6-loopback
